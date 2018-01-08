@@ -2,6 +2,7 @@ package simon;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.awt.Color;
 
 import guiTeacher.components.TextLabel;
 import guiTeacher.interfaces.Visible;
